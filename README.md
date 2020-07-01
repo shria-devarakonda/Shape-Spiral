@@ -1,2 +1,2 @@
 # Shape-Spiral
-A spiral created for you in whichever shape you prefer
+A spiral created for you square and triangle and star
